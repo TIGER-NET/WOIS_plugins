@@ -1,9 +1,6 @@
 [submodule "processing"]
 	path = processing
 	url = https://github.com/DHI-GRAS/ESA_Processing.git
-[submodule "openlayers_plugin"]
-	path = openlayers_plugin
-	url = https://github.com/sourcepole/qgis-openlayers-plugin.git
 [submodule "pointsamplingtool"]
 	path = pointsamplingtool
 	url = https://github.com/borysiasty/pointsamplingtool.git
