@@ -1,6 +1,6 @@
 [submodule "processing"]
 	path = processing
-	url = https://github.com/DHI-GRAS/ESA_Processing.git
+	url = https://github.com/DHI-GRAS/WOIS_processing.git
 [submodule "pointsamplingtool"]
 	path = pointsamplingtool
 	url = https://github.com/borysiasty/pointsamplingtool.git
