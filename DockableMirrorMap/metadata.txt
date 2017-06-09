@@ -1,0 +1,51 @@
+; the next section is mandatory
+[general]
+name=Dockable MirrorMap
+description=Creates a dockable map canvas synchronized with the main one.
+    Developed with funding from Regione Toscana-SITA.
+about=The plugin is able to add one or more extra panels in the main window
+    with additional map canvases. By clicking Add/Remove button on the panel
+    it is possible to add currently selected layers or groups. The additional
+    canvases are synchronized with the main map canvas.
+
+version=0.5.1
+qgisMinimumVersion=2.0
+
+; not used yet, will allow to put a plugin in the right menu
+category=Plugin
+
+author=Giuseppe Sucameli (Faunalia)
+email=info@faunalia.eu
+
+; end of mandatory metadata
+
+; start of optional metadata
+
+changelog=0.5.1
+    Fixed crashes when opening a project on Windows
+    0.5
+    Optionally set labels of individual mirror maps
+    0.4
+    Add/remove layer groups (from QGIS 2.4), multiple styles for layers (from QGIS 2.12)
+    0.3
+	Merged Zvoleff's feature adding mirror scale factor
+	0.2.5
+	Solved porting bug: http://hub.qgis.org/issues/8934
+	0.2.4
+	Solved bug on saving dockable in a qgis project
+	0.2.3
+	Ported to sip API 2.0 thanks to Regione Toscana-SITA
+
+; tags are in comma separated value format, spaces are allowed
+tags=map,mirror
+
+homepage=http://www.faunalia.com/
+tracker=http://hub.qgis.org/projects/dockablemirrormap
+repository=http://github.com/faunalia/dockablemirrormap
+; the old repo was at http://hub.qgis.org/projects/dockablemirrormap/repository
+
+; path to a icon within the plugin folder
+icon=icons/dockablemirrormap.png
+
+experimental=False
+deprecated=False
