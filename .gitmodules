@@ -22,3 +22,6 @@
 [submodule "mikecprovider"]
 	path = mikecprovider
 	url = https://github.com/DHI-GRAS/mikecprovider.git
+[submodule "LecoS"]
+	path = LecoS
+	url = https://github.com/Martin-Jung/LecoS.git
