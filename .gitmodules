@@ -10,9 +10,6 @@
 [submodule "processing_workflow"]
 	path = processing_workflow
 	url = https://github.com/DHI-GRAS/processing_workflow.git
-[submodule "processing_SWAT"]
-	path = processing_SWAT
-	url = https://github.com/DHI-GRAS/processing_SWAT.git
 [submodule "temporalprofiletool"]
 	path = temporalprofiletool
 	url = https://github.com/DHI-GRAS/Temporal_profile_tool.git
