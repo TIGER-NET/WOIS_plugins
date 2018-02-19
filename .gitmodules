@@ -22,3 +22,6 @@
 [submodule "LecoS"]
 	path = LecoS
 	url = https://github.com/Martin-Jung/LecoS.git
+[submodule "processing_SWAT"]
+	path = processing_SWAT
+	url = https://github.com/DHI-GRAS/processing_SWAT.git
